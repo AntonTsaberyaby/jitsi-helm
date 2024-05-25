@@ -271,7 +271,7 @@ jvb:
     enabled: false
     image:
       repository: docker.io/systemli/prometheus-jitsi-meet-exporter
-      tag: 1.2.3
+      tag: 1.3.0
       pullPolicy: IfNotPresent
 
     resources:
